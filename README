@@ -1,0 +1,3 @@
+# UTFGrid .net
+
+This is an implementation of UTFGrid (https://github.com/mapbox/utfgrid-spec) for the .NET environment based on some original code by Dane Springmeyer (https://github.com/springmeyer)

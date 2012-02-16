@@ -1,0 +1,5 @@
+C:\Users\Fred\UTFGrid-Net\uftgrid\model\bin\Debug\model.dll
+C:\Users\Fred\UTFGrid-Net\uftgrid\model\bin\Debug\model.pdb
+C:\Users\Fred\UTFGrid-Net\uftgrid\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fred\UTFGrid-Net\uftgrid\model\obj\Debug\model.dll
+C:\Users\Fred\UTFGrid-Net\uftgrid\model\obj\Debug\model.pdb

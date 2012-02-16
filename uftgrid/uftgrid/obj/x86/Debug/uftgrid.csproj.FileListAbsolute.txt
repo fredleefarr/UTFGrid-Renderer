@@ -1,0 +1,9 @@
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\uftgrid.exe
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\uftgrid.pdb
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\model.dll
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\renderer.dll
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\renderer.pdb
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\bin\Debug\model.pdb
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\obj\x86\Debug\uftgrid.exe
+C:\Users\Fred\UTFGrid-Net\uftgrid\uftgrid\obj\x86\Debug\uftgrid.pdb
